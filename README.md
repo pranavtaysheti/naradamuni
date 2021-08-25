@@ -2,15 +2,11 @@
 
 ## Introduction
 
-This is an python library for creating useful reddit bots.
+This is an python library for making reddit bots.
 
 ## Installation
 
 ## Usage
-
-## Contributors
-
-Pranav Taysheti             pranavtaysheti at gmail dot com
 
 ## License
 
